@@ -25,6 +25,7 @@ RUN apk upgrade -U \
         php7-pdo \
         php7-pdo_mysql \
         php7-posix \
+        php7-iconv \
         php7-session \
         php7-tidy \
         php7-xml \
